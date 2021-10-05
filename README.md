@@ -1,5 +1,5 @@
 #Demo
-Click [https://main.d8pw9qr8om05j.amplifyapp.com/](Demo) online
+Click [Demo](https://main.d8pw9qr8om05j.amplifyapp.com/) online
 
 
 # Getting Started with Create React App
